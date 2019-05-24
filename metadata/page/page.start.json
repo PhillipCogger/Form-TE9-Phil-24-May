@@ -19,7 +19,8 @@
   "heading": "TE9: Witness statement - unpaid penalty charge",
   "lede": "You  must file this statement by the date shown on the Order for  recovery (form TE3).",
   "steps": [
-    "page._details-about-your-penalty-charge"
+    "page._details-about-your-penalty-charge",
+    "page.your-details"
   ],
   "url": "/"
 }

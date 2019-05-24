@@ -1,0 +1,34 @@
+{
+  "_id": "page.your-details",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.your-details--text.auto_name__1",
+      "_type": "text",
+      "label": "Full name",
+      "name": "full_name"
+    },
+    {
+      "_id": "page.your-details--content",
+      "_type": "content",
+      "html": "### Your address"
+    },
+    {
+      "_id": "page.your-details--text.auto_name__1--2",
+      "_type": "text",
+      "label": "Building and street",
+      "name": "building_street"
+    },
+    {
+      "_id": "page.your-details--text.auto_name__1--3",
+      "_type": "text",
+      "label": "Second line of address",
+      "name": "second_line_address",
+      "validation": {
+        "required": false
+      }
+    }
+  ],
+  "heading": "Your details (the respondent)",
+  "url": "your-details"
+}
