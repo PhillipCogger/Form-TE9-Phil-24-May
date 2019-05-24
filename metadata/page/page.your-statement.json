@@ -1,0 +1,39 @@
+{
+  "_id": "page.your-statement",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.your-statement--checkboxes",
+      "_type": "checkboxes",
+      "items": [
+        {
+          "_id": "page.your-statement--checkboxes--checkbox.auto_name__2",
+          "_type": "checkbox",
+          "label": "I did not receive the Notice to owner/Penalty charge notice",
+          "name": "auto_name__2"
+        },
+        {
+          "_id": "page.your-statement--checkboxes--checkbox.auto_name__3",
+          "_type": "checkbox",
+          "label": "I made representations about the penalty charge to the enforcing authority concerned within 28 days of the service of the notice to owner, but did not receive a rejection notice",
+          "name": "auto_name__3"
+        },
+        {
+          "_id": "page.your-statement--checkboxes--checkbox.auto_name__4",
+          "_type": "checkbox",
+          "label": "I appealed against the local authority's decision to reject my representation, within 28 days of service of the rejection notice, but have had no response to my appeal",
+          "name": "auto_name__4"
+        },
+        {
+          "_id": "page.your-statement--checkboxes--checkbox.auto_name__5",
+          "_type": "checkbox",
+          "label": "The penalty charge has been paid in full",
+          "name": "auto_name__5"
+        }
+      ],
+      "legend": "Tick all boxes that apply"
+    }
+  ],
+  "heading": "Your statement",
+  "url": "your-statement"
+}

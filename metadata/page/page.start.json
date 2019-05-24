@@ -22,7 +22,8 @@
     "page._details-about-your-penalty-charge",
     "page.your-details",
     "page.is-the-vehicle-owned-and-registered-by-a-company",
-    "page.london-borough-parking-contravention"
+    "page.london-borough-parking-contravention",
+    "page.your-statement"
   ],
   "url": "/"
 }
