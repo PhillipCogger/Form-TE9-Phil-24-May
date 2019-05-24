@@ -9,29 +9,29 @@
       "name": "payment_date"
     },
     {
-      "_id": "page.penalty-charge-payment-details--radios.auto_name__8",
+      "_id": "page.penalty-charge-payment-details--radios.auto_name__7",
       "_type": "radios",
       "items": [
         {
-          "_id": "page.penalty-charge-payment-details--radios.auto_name__8--radio.auto_value__9",
+          "_id": "page.penalty-charge-payment-details--radios.auto_name__7--radio.auto_value__9",
           "_type": "radio",
           "label": "Cash",
           "value": "auto_value__9"
         },
         {
-          "_id": "page.penalty-charge-payment-details--radios.auto_name__8--radio.auto_value__10",
+          "_id": "page.penalty-charge-payment-details--radios.auto_name__7--radio.auto_value__10",
           "_type": "radio",
           "label": "Cheque",
           "value": "auto_value__10"
         },
         {
-          "_id": "page.penalty-charge-payment-details--radios.auto_name__8--radio.auto_value__11",
+          "_id": "page.penalty-charge-payment-details--radios.auto_name__7--radio.auto_value__11",
           "_type": "radio",
           "label": "Credit card",
           "value": "auto_value__11"
         },
         {
-          "_id": "page.penalty-charge-payment-details--radios.auto_name__8--radio.auto_value__12",
+          "_id": "page.penalty-charge-payment-details--radios.auto_name__7--radio.auto_value__12",
           "_type": "radio",
           "label": "Debit card",
           "value": "auto_value__12"
@@ -44,13 +44,32 @@
       "_id": "page.penalty-charge-payment-details--text.auto_name__7",
       "_type": "text",
       "label": "Who you paid",
-      "name": "auto_name__7"
+      "name": "who_you_paid"
     }
   ],
   "heading": "Penalty charge payment details",
   "show": {
-    "identifier": "auto_name__5",
-    "operator": "defined"
+    "all": [
+      {
+        "identifier": "auto_name__5",
+        "operator": "defined"
+      },
+      {
+        "identifier": "auto_name__2",
+        "negated": true,
+        "operator": "defined"
+      },
+      {
+        "identifier": "auto_name__3",
+        "negated": true,
+        "operator": "defined"
+      },
+      {
+        "identifier": "auto_name__4",
+        "negated": true,
+        "operator": "defined"
+      }
+    ]
   },
   "url": "penalty-charge-payment-details"
 }
