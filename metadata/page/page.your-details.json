@@ -44,6 +44,13 @@
         "required": false
       },
       "widthClassInput": "two-thirds"
+    },
+    {
+      "_id": "page.your-details--text.auto_name__1--5",
+      "_type": "text",
+      "label": "Postcode",
+      "name": "postcode",
+      "widthClassInput": "one-third"
     }
   ],
   "heading": "Your details (the respondent)",
