@@ -23,7 +23,8 @@
     "page.your-details",
     "page.is-the-vehicle-owned-and-registered-by-a-company",
     "page.london-borough-parking-contravention",
-    "page.your-statement"
+    "page.your-statement",
+    "page.your-statement--2"
   ],
   "url": "/"
 }

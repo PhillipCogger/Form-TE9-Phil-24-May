@@ -34,6 +34,12 @@
       "legend": "Tick all boxes that apply"
     }
   ],
+  "enableSteps": true,
   "heading": "Your statement",
+  "show": {
+    "identifier": "london-borough-parking-contravention",
+    "operator": "is",
+    "value": "auto_value__4"
+  },
   "url": "your-statement"
 }

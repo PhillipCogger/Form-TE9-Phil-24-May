@@ -1,0 +1,46 @@
+{
+  "_id": "page.your-statement--2",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.your-statement--2--radios.auto_name__6",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.your-statement--2--radios.auto_name__6--radio.auto_value__5",
+          "_type": "radio",
+          "label": "I did not receive the Notice to owner/Penalty charge notice",
+          "value": "auto_value__5"
+        },
+        {
+          "_id": "page.your-statement--2--radios.auto_name__6--radio.auto_value__6",
+          "_type": "radio",
+          "label": "I made representations about the penalty charge to the enforcing authority concerned within 28 days of the service of the Notice to owner, but did not receive a rejection notice",
+          "value": "auto_value__6"
+        },
+        {
+          "_id": "page.your-statement--2--radios.auto_name__6--radio.auto_value__7",
+          "_type": "radio",
+          "label": "I appealed against the local authority's decision to reject my representation, within 28 days of service of the rejection notice, but have had no response to my appeal",
+          "value": "auto_value__7"
+        },
+        {
+          "_id": "page.your-statement--2--radios.auto_name__6--radio.auto_value__8",
+          "_type": "radio",
+          "label": "The penalty charge has been paid in full",
+          "value": "auto_value__8"
+        }
+      ],
+      "legend": "Choose only one option",
+      "name": "auto_name__6"
+    }
+  ],
+  "enableSteps": true,
+  "heading": "Your statement",
+  "show": {
+    "identifier": "london-borough-parking-contravention",
+    "operator": "is",
+    "value": "auto_value__3"
+  },
+  "url": "your-statement-2"
+}
