@@ -15,6 +15,24 @@
       "label": "Vehicle registration number",
       "name": "vehicle_registration_number",
       "widthClassInput": "one-half"
+    },
+    {
+      "_id": "page._details-about-your-penalty-charge--text.auto_name__1--2",
+      "_type": "text",
+      "label": "Applicant",
+      "name": "applicant"
+    },
+    {
+      "_id": "page._details-about-your-penalty-charge--text.auto_name__2--2",
+      "_type": "text",
+      "label": "Location of contravention",
+      "name": "location_of_contravention"
+    },
+    {
+      "_id": "page._details-about-your-penalty-charge--date.auto_name__1",
+      "_type": "date",
+      "label": "Date of contravention",
+      "name": "date_of_contravention"
     }
   ],
   "heading": "Details about your penalty charge",
