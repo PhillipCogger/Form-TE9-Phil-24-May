@@ -49,27 +49,18 @@
   ],
   "heading": "Penalty charge payment details",
   "show": {
-    "all": [
+    "any": [
       {
         "identifier": "auto_name__5",
         "operator": "defined"
       },
       {
-        "identifier": "auto_name__2",
-        "negated": true,
-        "operator": "defined"
-      },
-      {
-        "identifier": "auto_name__3",
-        "negated": true,
-        "operator": "defined"
-      },
-      {
-        "identifier": "auto_name__4",
-        "negated": true,
-        "operator": "defined"
+        "identifier": "auto_name__6",
+        "operator": "is",
+        "value": "auto_value__8"
       }
-    ]
+    ],
+    "conditionsType": "any"
   },
   "url": "penalty-charge-payment-details"
 }
