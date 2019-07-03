@@ -1,7 +1,7 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "### Before you start ###\r\n\r\nTo complete this form you will need the form TE3 Order for recovery of unpaid penalty charge.",
+  "body": "To do this, one of the following must be true:\r\n\r\n* You didn't receive notice of the unpaid penalty charge\r\n* You've told the local authority why you think the charge is not valid, but haven't received a rejection notice\r\n* You've appealed against the local authority's decision and the appeal hasn't been rejected\r\n* You've paid the penalty charge in full     \r\n\r\n### Before you start ###\r\n\r\nTo complete this form you will need the form TE3 Order for recovery of unpaid penalty charge.",
   "components": [
     {
       "_id": "page.start--inset",
@@ -17,7 +17,7 @@
     }
   ],
   "heading": "TE9: Witness statement - unpaid penalty charge",
-  "lede": "You  must file this statement by the date shown on the Order for  recovery (form TE3).",
+  "lede": "This form is used to stop  an order for recovery of an unpaid penalty charge.",
   "steps": [
     "page._details-about-your-penalty-charge",
     "page.your-details",
