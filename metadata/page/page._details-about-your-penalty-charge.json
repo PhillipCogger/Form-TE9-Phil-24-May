@@ -9,7 +9,8 @@
       "$field": true,
       "_id": "page._details-about-your-penalty-charge--text.auto_name__1",
       "_type": "text",
-      "label": "Penalty charge number",
+      "hint": "It’s on your Penalty Charge Notice. For example, ‘AB12345678’.",
+      "label": "Penalty Charge Notice (PCN) number",
       "name": "penalty_charge_number",
       "widthClassInput": "one-half"
     },
@@ -20,7 +21,8 @@
       "$field": true,
       "_id": "page._details-about-your-penalty-charge--text.auto_name__2",
       "_type": "text",
-      "label": "Vehicle registration number",
+      "hint": "For example, BD51SMR",
+      "label": "Registration number (number plate)",
       "name": "vehicle_registration_number",
       "widthClassInput": "one-half"
     },
