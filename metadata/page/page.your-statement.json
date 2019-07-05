@@ -25,12 +25,6 @@
           "name": "auto_name__4"
         },
         {
-          "_id": "page.your-statement--checkboxes--checkbox.auto_name__5",
-          "_type": "checkbox",
-          "label": "The penalty charge has been paid in full",
-          "name": "auto_name__5"
-        },
-        {
           "_id": "page.your-statement--checkboxes--checkbox.auto_name__7",
           "_type": "checkbox",
           "label": "I appealed to an adjudicator against the Charging Authority's decision to reject my representation, within 28 days of service of the rejection notice, but the appeal had not been determined by the time the charge certificate had been served.",
@@ -41,6 +35,12 @@
           "_type": "checkbox",
           "label": "I appealed to an adjudicator against the Charging Authority's decision to reject my representation, and the appeal was determined in my favour.",
           "name": "auto_name__12"
+        },
+        {
+          "_id": "page.your-statement--checkboxes--checkbox.auto_name__5",
+          "_type": "checkbox",
+          "label": "The penalty charge has been paid in full",
+          "name": "auto_name__5"
         }
       ],
       "legend": "Choose all options that apply"
