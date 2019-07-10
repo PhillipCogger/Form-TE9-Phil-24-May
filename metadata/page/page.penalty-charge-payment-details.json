@@ -51,7 +51,7 @@
   "show": {
     "any": [
       {
-        "identifier": "auto_name__5",
+        "identifier": "statement_non_london_borough_charge_paid",
         "operator": "defined"
       },
       {
