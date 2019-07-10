@@ -50,9 +50,9 @@
   "enableSteps": true,
   "heading": "Your statement",
   "show": {
-    "identifier": "london-borough-parking-contravention",
+    "identifier": "london_borough_parking_contravention",
     "operator": "is",
-    "value": "auto_value__3"
+    "value": "london_borough_parking_contravention_yes"
   },
   "steps": [],
   "url": "your-statement-2"

@@ -13,7 +13,7 @@
           "show": {
             "identifier": "vehicle_owned_by_company",
             "operator": "is",
-            "value": "vehicle_owned_by_company_"
+            "value": "vehicle_owned_by_company_yes"
           },
           "value": "auto_value__15"
         },
