@@ -10,22 +10,22 @@
           "_id": "page.statement-of-truth-on-behalf-of-respondent--radios.auto_name__11--radio.auto_value__19",
           "_type": "radio",
           "label": "The witness believes that the facts stated in the application are true",
-          "value": "auto_value__19"
+          "value": "on_behalf_of_respondent_statement_of_truth_confirmation"
         }
       ],
-      "name": "auto_name__11"
+      "name": "on_behalf_of_respondent_statement_of_truth"
     },
     {
       "_id": "page.statement-of-truth-on-behalf-of-respondent--text.auto_name__12",
       "_type": "text",
       "label": "Your full name",
-      "name": "your_full_name"
+      "name": "on_behalf_of_respondent_statement_of_truth_full_name"
     },
     {
       "_id": "page.statement-of-truth-on-behalf-of-respondent--date.auto_name__13",
       "_type": "date",
       "label": "Date",
-      "name": "date"
+      "name": "on_behalf_of_respondent_statement_of_truth_date"
     },
     {
       "_id": "page.statement-of-truth-on-behalf-of-respondent--inset",

@@ -10,22 +10,22 @@
           "_id": "page.statement-of-truth--radios.auto_name__10--radio.auto_value__18",
           "_type": "radio",
           "label": "I believe the facts stated in this application are true",
-          "value": "auto_value__18"
+          "value": "respondent_statement_of_truth_confirmation"
         }
       ],
-      "name": "auto_name__10"
+      "name": "respondent_statement_of_truth"
     },
     {
       "_id": "page.statement-of-truth--text.auto_name__11",
       "_type": "text",
       "label": "Your full name",
-      "name": "your_full_name"
+      "name": "respondent_statement_of_truth_full_name"
     },
     {
       "_id": "page.statement-of-truth--date.auto_name__12",
       "_type": "date",
       "label": "Date",
-      "name": "date"
+      "name": "respondent_statement_of_truth_date"
     },
     {
       "_id": "page.statement-of-truth--inset",

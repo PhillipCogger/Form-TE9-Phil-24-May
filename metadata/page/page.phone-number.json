@@ -11,9 +11,9 @@
     }
   ],
   "show": {
-    "identifier": "contact_preferences",
+    "identifier": "contact_preference",
     "operator": "is",
-    "value": "auto_value__21"
+    "value": "contact_preference_phone"
   },
   "url": "phone-number"
 }
