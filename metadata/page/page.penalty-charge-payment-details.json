@@ -55,9 +55,9 @@
         "operator": "defined"
       },
       {
-        "identifier": "auto_name__6",
+        "identifier": "london_borough_statement_of_truth",
         "operator": "is",
-        "value": "auto_value__8"
+        "value": "statement_london_borough_appeal_not_determined"
       }
     ],
     "conditionsType": "any"
