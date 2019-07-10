@@ -16,7 +16,7 @@
             "name": "company_name"
           },
           "label": "Yes",
-          "value": "auto_value__1"
+          "value": "vehicle_owned_by_company_"
         },
         {
           "_id": "page.is-the-vehicle-owned-and-registered-by-a-company--radios.auto_name__1--radio.auto_value__2",
@@ -26,7 +26,7 @@
         }
       ],
       "legend": "Is the vehicle owned and registered by a company?",
-      "name": "auto_name__1"
+      "name": "vehicle_owned_by_company"
     }
   ],
   "url": "is-the-vehicle-owned-and-registered-by-a-company"

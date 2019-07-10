@@ -30,14 +30,14 @@
       "_id": "page._details-about-your-penalty-charge--text.auto_name__13",
       "_type": "text",
       "label": "Applicant",
-      "name": "auto_name__13",
+      "name": "penalty_charge_details_applicant_name",
       "widthClassInput": "one-half"
     },
     {
       "_id": "page._details-about-your-penalty-charge--text.auto_name__14",
       "_type": "text",
       "label": "Location of contravention",
-      "name": "auto_name__14",
+      "name": "penalty_charge_details_contravention_location",
       "widthClassInput": "one-half"
     },
     {
@@ -45,7 +45,7 @@
       "_type": "date",
       "hint": "For example, 12 11 2018",
       "label": "Date of contravention",
-      "name": "auto_name__15"
+      "name": "penalty_charge_details_contravention_date"
     }
   ],
   "heading": "Details about your penalty charge",

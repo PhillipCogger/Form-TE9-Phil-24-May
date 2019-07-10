@@ -6,7 +6,7 @@
       "_id": "page.your-details--text.auto_name__1",
       "_type": "text",
       "label": "Full name",
-      "name": "full_name"
+      "name": "respondent_full_name"
     },
     {
       "_id": "page.your-details--content",
@@ -17,13 +17,13 @@
       "_id": "page.your-details--text.auto_name__1--2",
       "_type": "text",
       "label": "Building and street",
-      "name": "building_street"
+      "name": "respondent_address_building"
     },
     {
       "_id": "page.your-details--text.auto_name__1--3",
       "_type": "text",
       "label": "Second line of address",
-      "name": "second_line_address",
+      "name": "respondent_address_street",
       "validation": {
         "required": false
       }
@@ -32,14 +32,14 @@
       "_id": "page.your-details--text.auto_name__1--4",
       "_type": "text",
       "label": "Town or city",
-      "name": "town_city",
+      "name": "respondent_address_town_city",
       "widthClassInput": "two-thirds"
     },
     {
       "_id": "page.your-details--text.auto_name__2",
       "_type": "text",
       "label": "County",
-      "name": "county",
+      "name": "respondent_address_county",
       "validation": {
         "required": false
       },
@@ -49,7 +49,7 @@
       "_id": "page.your-details--text.auto_name__1--5",
       "_type": "text",
       "label": "Postcode",
-      "name": "postcode",
+      "name": "respondent_address_postcode",
       "widthClassInput": "one-third"
     }
   ],

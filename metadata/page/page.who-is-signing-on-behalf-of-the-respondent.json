@@ -11,9 +11,9 @@
           "_type": "radio",
           "label": "an officer of the company",
           "show": {
-            "identifier": "auto_name__1",
+            "identifier": "vehicle_owned_by_company",
             "operator": "is",
-            "value": "auto_value__1"
+            "value": "vehicle_owned_by_company_"
           },
           "value": "auto_value__15"
         },
