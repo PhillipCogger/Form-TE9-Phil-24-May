@@ -35,9 +35,9 @@
   ],
   "heading": "Statement of truth",
   "show": {
-    "identifier": "auto_name__8",
+    "identifier": "person_completing_form",
     "operator": "is",
-    "value": "auto_value__13"
+    "value": "respondent_completing_form"
   },
   "url": "statement-of-truth-respondent"
 }

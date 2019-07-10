@@ -6,7 +6,7 @@
       "_id": "page.penalty-charge-payment-details--date.auto_name__7",
       "_type": "date",
       "label": "Payment date",
-      "name": "payment_date"
+      "name": "penalty_charge_payment_date"
     },
     {
       "_id": "page.penalty-charge-payment-details--radios.auto_name__7",
@@ -16,35 +16,35 @@
           "_id": "page.penalty-charge-payment-details--radios.auto_name__7--radio.auto_value__9",
           "_type": "radio",
           "label": "Cash",
-          "value": "auto_value__9"
+          "value": "penalty_charge_payment_cash"
         },
         {
           "_id": "page.penalty-charge-payment-details--radios.auto_name__7--radio.auto_value__10",
           "_type": "radio",
           "label": "Cheque",
-          "value": "auto_value__10"
+          "value": "penalty_charge_payment_cash_cheque"
         },
         {
           "_id": "page.penalty-charge-payment-details--radios.auto_name__7--radio.auto_value__11",
           "_type": "radio",
           "label": "Credit card",
-          "value": "auto_value__11"
+          "value": "penalty_charge_payment_credit_card"
         },
         {
           "_id": "page.penalty-charge-payment-details--radios.auto_name__7--radio.auto_value__12",
           "_type": "radio",
           "label": "Debit card",
-          "value": "auto_value__12"
+          "value": "penalty_charge_payment_debit_card"
         }
       ],
       "legend": "Payment method",
-      "name": "payment_method"
+      "name": "penalty_charge_payment_method"
     },
     {
       "_id": "page.penalty-charge-payment-details--text.auto_name__7",
       "_type": "text",
       "label": "Who you paid",
-      "name": "who_you_paid"
+      "name": "penalty_charge_payment_recipient"
     }
   ],
   "heading": "Penalty charge payment details",

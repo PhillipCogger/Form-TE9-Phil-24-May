@@ -15,29 +15,29 @@
             "operator": "is",
             "value": "vehicle_owned_by_company_yes"
           },
-          "value": "auto_value__15"
+          "value": "company_officer_signing_form"
         },
         {
           "_id": "page.who-is-signing-on-behalf-of-the-respondent--radios.auto_name__9--radio.auto_value__16",
           "_type": "radio",
           "label": "a partner of the firm",
-          "value": "auto_value__16"
+          "value": "firm_partner_signing_form"
         },
         {
           "_id": "page.who-is-signing-on-behalf-of-the-respondent--radios.auto_name__9--radio.auto_value__17",
           "_type": "radio",
           "label": "a litigation friend acting on behalf of a protected party within the meaning of the Mental Capacity Act 2005",
-          "value": "auto_value__17"
+          "value": "litigation_friend_signing_form"
         }
       ],
       "legend": "Who is signing on behalf of the respondent?",
-      "name": "auto_name__9"
+      "name": "person_signing_form_for_respondent"
     }
   ],
   "show": {
-    "identifier": "auto_name__8",
+    "identifier": "person_completing_form",
     "operator": "is",
-    "value": "auto_value__14"
+    "value": "on_behalf_of_respondent_completing_form"
   },
   "url": "who-is-signing-on-behalf-of-the-respondent"
 }
